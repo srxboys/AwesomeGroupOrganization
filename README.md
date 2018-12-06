@@ -1,1 +1,169 @@
 # AwesomeGroupOrganization
+
+
+收集`群组织`网址。
+
+<br />
+
+> 国内
+- [ Alibaba `阿里巴巴`  ](https://github.com/alibaba)
+- [ Taobao `阿里，淘宝` ](https://github.com/taobao)
+- [ aliceui `阿里，支付宝` ](https://github.com/aliceui)
+- [ Tmall `阿里，天猫前端` ](https://github.com/tmallfe)
+- [ AntV team `阿里，蚂蚁金服` ](https://github.com/antvis)
+- [ Hilo `阿里，终端跨平台小游戏` ](https://github.com/hiloteam)
+- [ Sea.js `阿里，js框架` ](https://github.com/seajs)
+- [ egg `阿里，js框架` ](https://github.com/eggjs)
+- [ kissyteam `阿里，KISSY 是 JavaScript 框架` ](https://github.com/kissyteam)
+- [ Ant Design Team `阿里，UI 设计语言和 React 实现` ](https://github.com/ant-design)
+
+>
+- [ Tencent `腾讯` ](https://github.com/tencent)
+- [ AlloyTeam `腾讯，Web前端团队` ](https://github.com/AlloyTeam)
+- [ WeUI `腾讯，微信ui` ](https://github.com/weui)
+
+>
+- [ BaiDu `百度` ](https://github.com/baidu)
+- [ Baidu EFE `百度，web前端` ](https://github.com/ecomfe)
+- [Baidu FEX `百度，web前端部` ](https://github.com/fex-team)
+
+>
+- [ HUAWEI `华为` ](https://github.com/Huawei)
+- [Huawei BigData `华为，大数据` ](https://github.com/HuaweiBigData)
+
+>
+- [ Meituan `美团` ](https://github.com/meituan)
+- [ Meituan-Dianping `美团，点评` ](https://github.com/Meituan-Dianping)
+- [ Dianping `美团，大众点评` ](https://github.com/dianping)
+
+>
+- [ eleme `饿了吗` ](https://github.com/eleme)
+- [ ElemeFE `饿了么前端` ](https://github.com/ElemeFE)
+
+>
+- [ Qihoo 360 `360` ](https://github.com/Qihoo360)
+- [ 360EntSecGroup-Skylar `360企业安全集团终端安全子公司`  ](https://github.com/360EntSecGroup-Skylar)
+
+>
+- [ Meili Inc `美丽` ](https://github.com/meili)
+- [ mogutt `蘑菇街` ](https://github.com/mogutt)
+
+>
+- [ JD `京东` ](https://github.com/CHINA-JD)
+- [ Xiaomi `小米` ](https://github.com/xiaomi)
+- [ DiDi `滴滴` ](https://github.com/didi)
+- [ NetEase `网易` ](https://github.com/netease)
+- [ Ctrip `携程` ](https://github.com/ctripcorp)
+- [ Weibo `新浪，微博` ](https://github.com/weibocom)
+- [ VIPSHOP `唯品会`](https://github.com/vipshop)
+- [ Zhihu `知乎` ](https://github.com/zhihu)
+- [ xitu `掘金，稀土` ](https://github.com/xitu)
+- [ Deepin (Linux Deepin) `深度` ](https://github.com/linuxdeepin)
+- [ SOHU DBA ](https://github.com/SOHUDBA)
+- [ Douban `豆瓣` ](https://github.com/douban)
+- [ Bilibili `哔哩哔哩` ](https://github.com/Bilibili)
+- [ JPush `极光推送` ](https://github.com/jpush)
+- [ CodisLabs `豌豆荚` ](https://github.com/CodisLabs)
+- [ dangdang `当当` ](https://github.com/dangdangdotcom)
+- [ youzhan `有赞` ](https://github.com/youzan)
+- [ StuQ `极客邦科技，职业教育业务斯达克学院` ](https://github.com/TeamStuQ)
+- [ JOBBOLE `伯乐在线` ](https://github.com/jobbole)
+- [ DNSPod ](https://github.com/DNSPod)
+
+<br />
+
+>  美国
+- [ Apple `苹果` ](https://github.com/apple)
+
+>
+- [ Google `谷歌` ](https://github.com/google)
+- [ Google Samples `谷歌，样品` ](https://github.com/googlesamples)
+- [ GoogleChrome `谷歌，浏览器` ](https://github.com/GoogleChrome)
+- [ Google Internationalization `谷歌，开源字体 ` ](https://github.com/googlei18n)
+- [ Kotlin `谷歌，开发语言` ](https://github.com/Kotlin)
+- [ grpc  `谷歌，RPC框架` ](https://github.com/grpc)
+
+>
+- [ Microsoft `微软` ](https://github.com/microsoft)
+- [ Amazon `亚马逊公司` ](https://github.com/aws)
+- [ Facebook `脸书` ](https://github.com/facebook)
+- [ Twitter `推特` ](https://github.com/twitter)
+- [ Square `Square移动支付` ](https://github.com/square)
+- [ International Business Machines `IBM - 国际商业机器` ](https://github.com/IBM)
+- [ Intel Corporation `因特尔` ](https://github.com/intel)
+- [ NVIDIA Corporation `英伟达` ](https://github.com/NVIDIA)
+- [ Yahoo Inc `雅虎` ](https://github.com/yahoo)
+- [ Apache `阿帕奇` ](https://github.com/apache) 
+- [ Adobe `奥多比` ](https://github.com/adobe)
+- [ Oriacle `甲骨文` ](https://github.com/oracle)
+- [ Dell Inc `戴尔` ](https://github.com/dell)
+- [ VMware `威睿` ](https://github.com/vmware)
+- [ Comcast Corporation `康卡斯特` ](https://github.com/Comcast)
+- [ Cisco Talos `思科` ](https://github.com/Cisco-Talos)
+- [ Airbnb `爱彼迎` ](https://github.com/airbnb)
+- [ Uber `优步` ](https://github.com/uber)
+- [ Broadcom Inc `博通公司` ](https://github.com/Broadcom)
+- [ Intuit `财捷公司` ](https://github.com/intuit)
+- [ Ebay `电子湾、亿贝、易贝` ](https://github.com/ebay)
+- [ PayPal ](https://github.com/paypal)
+- [ Visa `维萨` ](https://github.com/visa)
+- [ MasterCard `万事达卡` ](https://github.com/MasterCard)
+- [ Nike Inc `耐克` ](https://github.com/Nike-Inc)
+- [ Mapbox ](https://github.com/mapbox)
+- [ Medium ](https://github.com/Medium)
+- [ Ramotion ](https://github.com/Ramotion)
+- [ Dropbox ](https://github.com/dropbox)
+
+> 
+- [ SAP SE ](https://github.com/SAP)
+
+<br />
+
+> 德国
+- [ Spotify `声田-音乐服务` ](https://github.com/spotify)
+- [ Bloomberg `彭博-财经资讯服务` ](https://github.com/Bloomberg)
+- [ Serverless `-架构服务` ](https://github.com/serverless)
+- [ NG-ZORRO `角度开发者` ](https://github.com/NG-ZORRO)
+- [ Netflix `奈飞公司-在线影片租赁提供商` ](https://github.com/netflix)
+
+
+<br />
+
+> 韩国
+- [ Samsung `三星` ](https://github.com/samsung)
+
+<br />
+
+> 捷克
+- [ JetBrains ](https://github.com/JetBrains)
+
+<br />
+
+> 日本
+- [ Sony Corporation `索尼` ](https://github.com/sony)
+- [ Hitachi Limited `日立` ](https://github.com/hitachi)
+- [ Clipy ](https://github.com/Clipy)
+
+<br />
+
+> 加拿大
+- [ Top Hat ](https://github.com/tophat)
+
+<br />
+
+> 乌克兰
+- [Yalantis](https://github.com/Yalantis)
+
+<br />
+
+> 荷兰
+- [Tinify](https://github.com/tinify)
+
+<br />
+
+> unknow
+- [ Taiwan ](https://github.com/taiwan)
+- [ Sinatra  ](https://github.com/sinatra)
+- [ Spring ](https://github.com/spring-projects)
+- [ SwiftAndroid ](https://github.com/SwiftAndroid)
+
