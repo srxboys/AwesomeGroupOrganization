@@ -26,6 +26,7 @@
 - [ BaiDu `百度` ](https://github.com/baidu)
 - [ Baidu EFE `百度，web前端` ](https://github.com/ecomfe)
 - [Baidu FEX `百度，web前端部` ](https://github.com/fex-team)
+- [ NativeScript `百度，夸app平台的js框架` ](https://github.com/NativeScript)
 
 >
 - [ HUAWEI `华为` ](https://github.com/Huawei)
@@ -124,7 +125,10 @@
 - [ Bloomberg `彭博-财经资讯服务` ](https://github.com/Bloomberg)
 - [ Serverless `-架构服务` ](https://github.com/serverless)
 - [ NG-ZORRO `角度开发者` ](https://github.com/NG-ZORRO)
+
+>
 - [ Netflix `奈飞公司-在线影片租赁提供商` ](https://github.com/netflix)
+- 开源[ReactiveX](https://github.com/ReactiveX) RxJava、RxSwift、RxGo...
 
 
 <br />
@@ -166,4 +170,46 @@
 - [ Sinatra  ](https://github.com/sinatra)
 - [ Spring ](https://github.com/spring-projects)
 - [ SwiftAndroid ](https://github.com/SwiftAndroid)
+- [ Sheet JS ](https://sheetjs.com)
+- [ SwifterSwift ](https://github.com/SwifterSwift)
+- [ Swift AI ](https://github.com/Swift-AI)
+- [ Kivy ](https://github.com/kivy)
+- [ KODI ](https://github.com/xbmc)
 
+>  
+- [ Nodejs ](https://github.com/nodejs)
+- [ Homebrew ](https://github.com/Homebrew)
+- [ CocoaPods ](https://github.com/CocoaPods)
+
+>  
+- [ Atom ](https://github.com/atom)
+- [ Nylas ](https://github.com/nylas)
+- [ PowerShell ](https://github.com/PowerShell)
+- [ Mark Text ](https://github.com/marktext)
+- [ MacDown ](https://github.com/MacDownApp)
+- [ WebTorrent ](https://github.com/webtorrent)
+- [ Brave Software ](https://github.com/brave)
+- [ FUSE for macOS ](https://github.com/osxfuse)
+- [ MacPass ](https://github.com/MacPass)
+- [ GLFW ](https://github.com/glfw)
+- [ Hammerspoon ](https://github.com/Hammerspoon)
+- [ Rambox ](https://github.com/ramboxapp)
+- [ CosmicMind ](https://github.com/CosmicMind)
+
+> 
+- [ Realm ](https://github.com/realm)
+- [ Sequel Pro ](https://github.com/sequelpro)
+- [ AudioKit ](https://github.com/AudioKit)
+
+>
+
+- [ SDWebImage ](https://github.com/SDWebImage)
+- [ AFNetworking ](https://github.com/AFNetworking)
+- [ Alamofire ](https://github.com/Alamofire/Alamofire)
+
+>
+- [ SnapKit ](https://github.com/SnapKit)
+- <del>[SDAutoLayout]()</del>
+
+
+<br>
