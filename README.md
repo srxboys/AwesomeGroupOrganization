@@ -71,6 +71,7 @@
 - [ JOBBOLE `伯乐在线` ](https://github.com/jobbole)
 - [ DNSPod ](https://github.com/DNSPod)
 - [ iflytek `科大讯飞` ](https://github.com/iflytek)
+- [ ireaderlab `掌阅` ](https://github.com/ireaderlab)
 
 <br />
 
