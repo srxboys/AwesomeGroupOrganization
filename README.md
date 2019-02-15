@@ -175,6 +175,8 @@
 - [ Swift AI ](https://github.com/Swift-AI)
 - [ Kivy ](https://github.com/kivy)
 - [ KODI ](https://github.com/xbmc)
+- [ Signal ](https://github.com/signalapp)
+- [ Dyknow ](https://github.com/DyKnow)
 
 >  
 - [ Nodejs ](https://github.com/nodejs)
