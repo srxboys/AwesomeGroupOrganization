@@ -70,6 +70,7 @@
 - [ StuQ `极客邦科技，职业教育业务斯达克学院` ](https://github.com/TeamStuQ)
 - [ JOBBOLE `伯乐在线` ](https://github.com/jobbole)
 - [ DNSPod ](https://github.com/DNSPod)
+- [ iflytek `科大讯飞` ](https://github.com/iflytek)
 
 <br />
 
