@@ -51,6 +51,9 @@
 
 >
 - [ JD `京东` ](https://github.com/CHINA-JD)
+- [ JD EE  `京东前端` ](https://github.com/jdf2e)
+
+>
 - [ Xiaomi `小米` ](https://github.com/xiaomi)
 - [ DiDi `滴滴` ](https://github.com/didi)
 - [ NetEase `网易` ](https://github.com/netease)
@@ -72,6 +75,9 @@
 - [ DNSPod ](https://github.com/DNSPod)
 - [ iflytek `科大讯飞` ](https://github.com/iflytek)
 - [ ireaderlab `掌阅` ](https://github.com/ireaderlab)
+
+>
+- [ USTC `中国科学技术大学课程资源` ](https://github.com/USTC-Resource)
 
 <br />
 
@@ -116,6 +122,7 @@
 - [ Medium ](https://github.com/Medium)
 - [ Ramotion ](https://github.com/Ramotion)
 - [ Dropbox ](https://github.com/dropbox)
+- [ Sensu ](https://github.com/sensu)
 
 > 
 - [ SAP SE ](https://github.com/SAP)
