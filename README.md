@@ -79,6 +79,10 @@
 >
 - [ USTC `中国科学技术大学课程资源` ](https://github.com/USTC-Resource)
 
+>
+- [ react-component ](https://github.com/react-component)
+- [ BotOrange ](https://github.com/botorange)
+
 <br />
 
 >  美国
@@ -93,9 +97,12 @@
 - [ Kubernetes `谷歌，容器编排引擎` ](https://github.com/kubernetes) 自动化部署、大规模可伸缩、应用容器化管理
 
 >
+- [ Facebook `脸书` ](https://github.com/facebook)
+- [ Facebook Research ](https://github.com/facebookresearch)
+
+>
 - [ Microsoft `微软` ](https://github.com/microsoft)
 - [ Amazon `亚马逊公司` ](https://github.com/aws)
-- [ Facebook `脸书` ](https://github.com/facebook)
 - [ Twitter `推特` ](https://github.com/twitter)
 - [ Square `Square移动支付` ](https://github.com/square)
 - [ International Business Machines `IBM - 国际商业机器` ](https://github.com/IBM)
@@ -123,9 +130,15 @@
 - [ Ramotion ](https://github.com/Ramotion)
 - [ Dropbox ](https://github.com/dropbox)
 - [ Sensu ](https://github.com/sensu)
+- [ Coder ](https://github.com/codercom)
+- [ ESnet ](https://github.com/esnet)
+- [ MindsDB ](https://github.com/mindsdb)
 
 > 
 - [ SAP SE ](https://github.com/SAP)
+
+> US and UK
+- [ SitePen ](https://github.com/SitePen)
 
 <br />
 
@@ -150,6 +163,16 @@
 > 捷克
 - [ JetBrains ](https://github.com/JetBrains)
 - [ Kotlin `JetBrains，开发语言` ](https://github.com/Kotlin)
+
+<br />
+
+> 维也纳（奥地利首都
+- [The Vienna RSS Project](https://github.com/ViennaRSS)
+
+<br />
+
+> 奥克兰
+- [ Muterra ](https://github.com/Muterra)
 
 <br />
 
@@ -188,6 +211,17 @@
 - [ KODI ](https://github.com/xbmc)
 - [ Signal ](https://github.com/signalapp)
 - [ Dyknow ](https://github.com/DyKnow)
+- [ IPFS ](https://github.com/ipfs)
+- [ Sentry ](https://github.com/getsentry)
+- [ RxSwift Community ](https://github.com/RxSwiftCommunity)
+- [ EthVM ](https://github.com/EthVM)
+- [ Expo ](https://github.com/expo)
+- [ Marko ](https://github.com/marko-js) UI Components + streaming, async, high performance, HTML templating for Node.js and the browser.  `PK Vue`
+
+
+> 
+- [ Prettier ](https://github.com/prettier)
+- [ ESLint ](https://github.com/eslint)
 
 >  
 - [ Nodejs ](https://github.com/nodejs)
