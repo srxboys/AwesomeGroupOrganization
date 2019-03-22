@@ -133,6 +133,7 @@
 - [ Coder ](https://github.com/codercom)
 - [ ESnet ](https://github.com/esnet)
 - [ MindsDB ](https://github.com/mindsdb)
+- [ 2D, Inc ](https://github.com/2d-inc) Flutter / Dart/ React / Swift
 
 > 
 - [ SAP SE ](https://github.com/SAP)
@@ -196,6 +197,7 @@
 > 荷兰
 - [ Tinify ](https://github.com/tinify)
 - [ Netguru ](https://github.com/netguru)
+- [ Polidea ](https://github.com/Polidea)
 
 <br />
 
@@ -203,21 +205,26 @@
 - [ Taiwan ](https://github.com/taiwan)
 - [ Sinatra  ](https://github.com/sinatra)
 - [ Spring ](https://github.com/spring-projects)
-- [ SwiftAndroid ](https://github.com/SwiftAndroid)
 - [ Sheet JS ](https://sheetjs.com)
-- [ SwifterSwift ](https://github.com/SwifterSwift)
-- [ Swift AI ](https://github.com/Swift-AI)
 - [ Kivy ](https://github.com/kivy)
 - [ KODI ](https://github.com/xbmc)
 - [ Signal ](https://github.com/signalapp)
 - [ Dyknow ](https://github.com/DyKnow)
 - [ IPFS ](https://github.com/ipfs)
 - [ Sentry ](https://github.com/getsentry)
-- [ RxSwift Community ](https://github.com/RxSwiftCommunity)
 - [ EthVM ](https://github.com/EthVM)
 - [ Expo ](https://github.com/expo)
 - [ Marko ](https://github.com/marko-js) UI Components + streaming, async, high performance, HTML templating for Node.js and the browser.  `PK Vue`
+- [ OpenAI ](https://github.com/openai)
+- [ Emacs.tw ](https://github.com/emacs-tw)
+- [ PaddlePaddle ](https://github.com/PaddlePaddle) C++ / Python / Vue / Go / JS
 
+
+>
+- [ RxSwift Community ](https://github.com/RxSwiftCommunity)
+- [ SwifterSwift ](https://github.com/SwifterSwift)
+- [ Swift AI ](https://github.com/Swift-AI)
+- [ SwiftAndroid ](https://github.com/SwiftAndroid)
 
 > 
 - [ Prettier ](https://github.com/prettier)
@@ -242,6 +249,7 @@
 - [ Hammerspoon ](https://github.com/Hammerspoon)
 - [ Rambox ](https://github.com/ramboxapp)
 - [ CosmicMind ](https://github.com/CosmicMind)
+- [ IINA ](https://github.com/iina) The modern media player for macOS
 
 > 
 - [ Realm ](https://github.com/realm)
