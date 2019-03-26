@@ -82,6 +82,7 @@
 >
 - [ react-component ](https://github.com/react-component)
 - [ BotOrange ](https://github.com/botorange)
+- [ Flutter中文网 ](https://github.com/flutterchina)
 
 <br />
 
@@ -148,6 +149,7 @@
 - [ Bloomberg `彭博-财经资讯服务` ](https://github.com/Bloomberg)
 - [ Serverless `-架构服务` ](https://github.com/serverless)
 - [ NG-ZORRO `角度开发者` ](https://github.com/NG-ZORRO)
+- [ checkly ](https://github.com/checkly) Monitor the performance and correctness of your API endpoints & vital site transactions from a single, simple dashboard.
 
 >
 - [ Netflix `奈飞公司-在线影片租赁提供商` ](https://github.com/netflix)
@@ -218,6 +220,9 @@
 - [ OpenAI ](https://github.com/openai)
 - [ Emacs.tw ](https://github.com/emacs-tw)
 - [ PaddlePaddle ](https://github.com/PaddlePaddle) C++ / Python / Vue / Go / JS
+- [ typeorm ](https://github.com/typeorm)
+- [ undertow-io ](https://github.com/undertow-io) 
+- [ TradingView ](https://github.com/tradingview)
 
 
 >
