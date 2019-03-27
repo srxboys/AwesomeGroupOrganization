@@ -134,7 +134,11 @@
 - [ Coder ](https://github.com/codercom)
 - [ ESnet ](https://github.com/esnet)
 - [ MindsDB ](https://github.com/mindsdb)
+- [ Stream ](https://github.com/GetStream)
 - [ 2D, Inc ](https://github.com/2d-inc) Flutter / Dart/ React / Swift
+- [ WeTransfer ](https://github.com/WeTransfer)
+- [ Unity Technologies ](https://github.com/UnityTech)  unity3d
+- [ onivim ](https://github.com/onivim)
 
 > 
 - [ SAP SE ](https://github.com/SAP)
@@ -155,6 +159,10 @@
 - [ Netflix `奈飞公司-在线影片租赁提供商` ](https://github.com/netflix)
 - 开源[ReactiveX](https://github.com/ReactiveX) RxJava、RxSwift、RxGo...
 
+<br />
+
+> 俄罗斯
+- [ Kriasoft ](https://github.com/kriasoft) Here on GitHub we share our experience with web infrastructure, scalable web application design, and DevOps.
 
 <br />
 
@@ -203,6 +211,16 @@
 
 <br />
 
+> 丹麦
+- [ Unity Technologies ](https://github.com/Unity-Technologies) unity3d
+
+<br />
+
+> 新加坡
+- [ Grab ](https://github.com/grab) Driving South-east Asia forward!
+
+<br />
+
 > unknow
 - [ Taiwan ](https://github.com/taiwan)
 - [ Sinatra  ](https://github.com/sinatra)
@@ -214,6 +232,7 @@
 - [ Dyknow ](https://github.com/DyKnow)
 - [ IPFS ](https://github.com/ipfs)
 - [ Sentry ](https://github.com/getsentry)
+- [ Automattic ](https://github.com/Automattic)
 - [ EthVM ](https://github.com/EthVM)
 - [ Expo ](https://github.com/expo)
 - [ Marko ](https://github.com/marko-js) UI Components + streaming, async, high performance, HTML templating for Node.js and the browser.  `PK Vue`
@@ -223,7 +242,20 @@
 - [ typeorm ](https://github.com/typeorm)
 - [ undertow-io ](https://github.com/undertow-io) 
 - [ TradingView ](https://github.com/tradingview)
+- [ Jasonette ](https://github.com/Jasonette)
 
+>
+- [ React Native Community ](https://github.com/react-native-community)
+- [ Serlina ](https://github.com/serlina-community) A progressive React serverside-rendering framework
+- [ react-boilerplate ](https://github.com/react-boilerplate) 🔥  A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+- [ dvajs ](https://github.com/dvajs)  
+- [ reactide ](https://github.com/reactide)
+
+> 
+- [ Redux ](https://github.com/reduxjs)
+- [ Redux-Saga ](https://github.com/redux-saga) Easing side effects management in Redux applications.
+- [ redux-offline ](https://github.com/redux-offline)
+- [ Rematch ](https://github.com/rematch)
 
 >
 - [ RxSwift Community ](https://github.com/RxSwiftCommunity)
