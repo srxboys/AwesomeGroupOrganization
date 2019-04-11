@@ -8,7 +8,8 @@
 > 国内
 - [ Alibaba `阿里巴巴`  ](https://github.com/alibaba)
 - [ Taobao `阿里，淘宝` ](https://github.com/taobao)
-- [ aliceui `阿里，支付宝` ](https://github.com/aliceui)
+- [ Alipay `阿里，支付宝` ](https://github.com/alipay)
+- [ aliceui `阿里，支付宝样式` ](https://github.com/aliceui)
 - [ Tmall `阿里，天猫前端` ](https://github.com/tmallfe)
 - [ AntV team `阿里，蚂蚁金服` ](https://github.com/antvis)
 - [ Hilo `阿里，终端跨平台小游戏` ](https://github.com/hiloteam)
@@ -30,7 +31,9 @@
 
 >
 - [ HUAWEI `华为` ](https://github.com/Huawei)
-- [Huawei BigData `华为，大数据` ](https://github.com/HuaweiBigData)
+- [ Huawei BigData `华为，大数据` ](https://github.com/HuaweiBigData)
+- [ HuaweiCloud `华为云` ](https://github.com/huaweicloud-obs)
+- [ Huawei Cloud Service Engine ](https://github.com/huaweicse)
 
 >
 - [ Meituan `美团` ](https://github.com/meituan)
@@ -80,9 +83,11 @@
 - [ USTC `中国科学技术大学课程资源` ](https://github.com/USTC-Resource)
 
 >
+- [ android-cn ](https://github.com/android-cn)
 - [ react-component ](https://github.com/react-component)
 - [ BotOrange ](https://github.com/botorange)
 - [ Flutter中文网 ](https://github.com/flutterchina)
+- [ RSUITE ](https://github.com/rsuite)
 
 <br />
 
@@ -103,6 +108,9 @@
 
 >
 - [ Microsoft `微软` ](https://github.com/microsoft)
+- [ Office Developer ](https://github.com/OfficeDev) Developer tools, samples, and other resources for building solutions on the Office 365 platform.
+
+>
 - [ Amazon `亚马逊公司` ](https://github.com/aws)
 - [ Twitter `推特` ](https://github.com/twitter)
 - [ Square `Square移动支付` ](https://github.com/square)
@@ -139,6 +147,12 @@
 - [ WeTransfer ](https://github.com/WeTransfer)
 - [ Unity Technologies ](https://github.com/UnityTech)  unity3d
 - [ onivim ](https://github.com/onivim)
+- [ Semantic Org ](https://github.com/Semantic-Org)
+- [ Rebass ](https://github.com/rebassjs) React UI components
+- [ ShakaCode ](https://github.com/shakacode) 
+- [ appbase.io ](https://github.com/appbaseio)
+- [ Stripe ](https://github.com/stripe)
+- [ video-react ](https://github.com/video-react)
 
 > 
 - [ SAP SE ](https://github.com/SAP)
@@ -175,6 +189,9 @@
 - [ JetBrains ](https://github.com/JetBrains)
 - [ Kotlin `JetBrains，开发语言` ](https://github.com/Kotlin)
 
+>
+- [ Lingui ](https://github.com/lingui)
+
 <br />
 
 > 维也纳（奥地利首都
@@ -196,6 +213,11 @@
 
 > 加拿大
 - [ Top Hat ](https://github.com/tophat)
+
+<br />
+
+> 西班牙
+- [ APSL ](https://github.com/APSL) Web, mobile apps and DevOps mostly in Python, Django, JavaScript and Go.
 
 <br />
 
@@ -221,6 +243,11 @@
 
 <br />
 
+> 巴西
+- [ Reakit ](https://github.com/reakit) Toolkit for building really interactive UIs with React
+
+<br />
+
 > unknow
 - [ Taiwan ](https://github.com/taiwan)
 - [ Sinatra  ](https://github.com/sinatra)
@@ -243,10 +270,12 @@
 - [ undertow-io ](https://github.com/undertow-io) 
 - [ TradingView ](https://github.com/tradingview)
 - [ Jasonette ](https://github.com/Jasonette)
+- [ MobX ](https://github.com/mobxjs)
 
 >
 - [ React Native Community ](https://github.com/react-native-community)
 - [ Serlina ](https://github.com/serlina-community) A progressive React serverside-rendering framework
+- [ Material-UI ](https://github.com/mui-org)
 - [ react-boilerplate ](https://github.com/react-boilerplate) 🔥  A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [ dvajs ](https://github.com/dvajs)  
 - [ reactide ](https://github.com/reactide)
@@ -271,6 +300,7 @@
 - [ Nodejs ](https://github.com/nodejs)
 - [ Homebrew ](https://github.com/Homebrew)
 - [ CocoaPods ](https://github.com/CocoaPods)
+- [ nteract ](https://github.com/nteract)
 
 >  
 - [ Atom ](https://github.com/atom)
