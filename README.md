@@ -9,7 +9,9 @@
 
 > GitHub
 - [ GitHub ](https://github.com/github)
+<br />
 
+---
 > China - 国内
 - [ Alibaba `阿里巴巴`  ](https://github.com/alibaba)
 - [ Taobao `阿里，淘宝` ](https://github.com/taobao)
@@ -100,6 +102,7 @@
 
 <br />
 
+---
 >  USA - 美国
 - [ Apple `苹果` ](https://github.com/apple)
 
@@ -179,6 +182,7 @@
 
 <br />
 
+---
 > Germany - 德国
 - [ Spotify `声田-音乐服务` ](https://github.com/spotify)
 - [ Bloomberg `彭博-财经资讯服务` ](https://github.com/Bloomberg)
@@ -192,27 +196,32 @@
 
 <br />
 
+---
 > Russia - 俄罗斯
 - [ Kriasoft ](https://github.com/kriasoft) Here on GitHub we share our experience with web infrastructure, scalable web application design, and DevOps.
 - [ Prisma ](https://github.com/prisma) 利用神经网络和人工智能技术，为普通照片加入艺术效果的照片编辑软件
 
 <br />
 
+---
 > Italian - 意大利
 - [ Virgilio ](https://github.com/virgili0)
 
 <br />
 
+---
 > Sweden - 瑞典
 - [ Grafana ](https://github.com/grafana)一个漂亮的工具，用于监控和测量石墨、InfluxDB和Prometheus、ElasticSearch的分析和仪表盘。
 
 <br />
 
+---
 > Korea - 韩国
 - [ Samsung `三星` ](https://github.com/samsung)
 
 <br />
 
+---
 > Czech - 捷克
 - [ JetBrains ](https://github.com/JetBrains)
 - [ Kotlin `JetBrains，开发语言` ](https://github.com/Kotlin)
@@ -222,38 +231,41 @@
 
 <br />
 
+---
 > Vienna - 维也纳（奥地利首都
 - [The Vienna RSS Project](https://github.com/ViennaRSS)
 
 <br />
 
+---
 > Auckland - 奥克兰
 - [ Muterra ](https://github.com/Muterra)
 
 <br />
 
+---
 > Japan - 日本
 - [ Sony Corporation `索尼` ](https://github.com/sony)
 - [ Hitachi Limited `日立` ](https://github.com/hitachi)
 - [ Clipy ](https://github.com/Clipy)
 
 <br />
-
+---
 > Canada - 加拿大
 - [ Top Hat ](https://github.com/tophat)
 
 <br />
-
+---
 > Spanish - 西班牙
 - [ APSL ](https://github.com/APSL) Web, mobile apps and DevOps mostly in Python, Django, JavaScript and Go.
 
 <br />
-
+---
 > Ukrainian - 乌克兰
 - [Yalantis](https://github.com/Yalantis)
 
 <br />
-
+---
 > Netherlands - 荷兰
 - [ Tinify ](https://github.com/tinify)
 - [ Netguru ](https://github.com/netguru)
@@ -261,22 +273,23 @@
 - [ V ](https://github.com/vlang) The V Programming Language:Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s.
 
 <br />
-
+---
 > Denmark - 丹麦
 - [ Unity Technologies ](https://github.com/Unity-Technologies) unity3d
 
 <br />
-
+---
 > Singapore - 新加坡
 - [ Grab ](https://github.com/grab) Driving South-east Asia forward!
 
 <br />
-
+---
 > Brazilian - 巴西
 - [ Reakit ](https://github.com/reakit) Toolkit for building really interactive UIs with React
 
 <br />
 
+---
 > unknow
 - [ Taiwan ](https://github.com/taiwan)
 - [ Sinatra  ](https://github.com/sinatra)
@@ -303,22 +316,27 @@
 - [ selfteaching ](https://github.com/selfteaching)
 - [ osquery ](https://github.com/osquery)
 
+---
 >
 - [ OpenAI ](https://github.com/openai)
 - [ Leon AI ](https://github.com/leon-ai)
 
+---
 >
 - [ Button ](https://github.com/button)
 - [ ibotta ](https://github.com/ibotta)
 - [ ebates ](https://github.com/ebates-inc)
 
+---
 >
 - [ OnsenUI ](https://github.com/OnsenUI)
 - [ Framework7 ](https://github.com/framework7io)用于构建iOS和Android应用程序的`全功能HTML框架`
 
+---
 > 
 - [ CreateJS ](https://github.com/CreateJS)是一款为HTML5游戏开发的引擎。
 
+---
 >
 - [ React Native Community ](https://github.com/react-native-community)
 - [ Serlina ](https://github.com/serlina-community) A progressive React serverside-rendering framework
@@ -327,22 +345,26 @@
 - [ dvajs ](https://github.com/dvajs)  
 - [ reactide ](https://github.com/reactide)
 
+---
 > js应用数据流框架(只是组织哦)
 - [ Redux ](https://github.com/reduxjs)
 - [ Redux-Saga ](https://github.com/redux-saga) Easing side effects management in Redux applications.
 - [ redux-offline ](https://github.com/redux-offline)
 - [ Rematch ](https://github.com/rematch)
 
+---
 >
 - [ RxSwift Community ](https://github.com/RxSwiftCommunity)
 - [ SwifterSwift ](https://github.com/SwifterSwift)
 - [ Swift AI ](https://github.com/Swift-AI)
 - [ SwiftAndroid ](https://github.com/SwiftAndroid)
 
+---
 > 
 - [ Prettier ](https://github.com/prettier)
 - [ ESLint ](https://github.com/eslint)
 
+---
 >  
 - [ Nodejs ](https://github.com/nodejs)
 - [ Homebrew ](https://github.com/Homebrew)
@@ -350,10 +372,12 @@
 - [ nteract ](https://github.com/nteract)
 - [ Entropic ](https://github.com/entropic-dev)
 
+---
 > JS 构建工具(只是组织哦)
 - [ webpack ](https://github.com/webpack)
 - [ pikapkg `pika` ](https://github.com/pikapkg)
 
+---
 >  
 - [ Atom ](https://github.com/atom)
 - [ Nylas ](https://github.com/nylas)
@@ -370,6 +394,7 @@
 - [ CosmicMind ](https://github.com/CosmicMind)
 - [ IINA ](https://github.com/iina) The modern media player for macOS
 
+---
 > 
 - [ Realm ](https://github.com/realm)
 - [ Sequel Pro ](https://github.com/sequelpro)
@@ -385,11 +410,13 @@
 - [ LINQ TO DB ](https://github.com/linq2db)
 - [ mysql-net ](https://github.com/mysql-net)
 
+---
 >
 - [ SDWebImage ](https://github.com/SDWebImage)
 - [ AFNetworking ](https://github.com/AFNetworking)
 - [ Alamofire ](https://github.com/Alamofire/Alamofire)
 
+---
 > app数据 统计、分析(只是组织哦)
 - [ Adjust ](https://github.com/adjust)
 - [ GrowingIO ](https://github.com/growingio)是基于用户行为的新一代数据分析产品，提供全球领先的数据采集和分析技术。
@@ -400,6 +427,7 @@
 - [ Segment ](https://github.com/segmentio)
 - [ AlignAlytics ](https://github.com/PMSI-AlignAlytics)
 
+---
 >
 - [ SnapKit ](https://github.com/SnapKit)
 - <del>[SDAutoLayout]()</del>
