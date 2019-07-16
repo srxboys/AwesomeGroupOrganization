@@ -250,21 +250,25 @@
 - [ Clipy ](https://github.com/Clipy)
 
 <br />
+
 ---
 > Canada - 加拿大
 - [ Top Hat ](https://github.com/tophat)
 
 <br />
+
 ---
 > Spanish - 西班牙
 - [ APSL ](https://github.com/APSL) Web, mobile apps and DevOps mostly in Python, Django, JavaScript and Go.
 
 <br />
+
 ---
 > Ukrainian - 乌克兰
 - [Yalantis](https://github.com/Yalantis)
 
 <br />
+
 ---
 > Netherlands - 荷兰
 - [ Tinify ](https://github.com/tinify)
@@ -273,16 +277,19 @@
 - [ V ](https://github.com/vlang) The V Programming Language:Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s.
 
 <br />
+
 ---
 > Denmark - 丹麦
 - [ Unity Technologies ](https://github.com/Unity-Technologies) unity3d
 
 <br />
+
 ---
 > Singapore - 新加坡
 - [ Grab ](https://github.com/grab) Driving South-east Asia forward!
 
 <br />
+
 ---
 > Brazilian - 巴西
 - [ Reakit ](https://github.com/reakit) Toolkit for building really interactive UIs with React
