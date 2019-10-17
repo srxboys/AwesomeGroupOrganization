@@ -30,6 +30,7 @@
 - [ Tencent `腾讯` ](https://github.com/tencent)
 - [ AlloyTeam `腾讯，Web前端团队` ](https://github.com/AlloyTeam)
 - [ WeUI `腾讯，微信ui` ](https://github.com/weui)
+- [ wechat-miniprogram ](https://github.com/wechat-miniprogram) 小程序
 
 >
 - [ BaiDu `百度` ](https://github.com/baidu)
@@ -431,6 +432,7 @@
 
 ---
 > app数据 统计、分析(只是组织哦)
+- [ Snowplow Analytics ](https://github.com/snowplow)在AWS和GCP上运行的云原生Web，移动和事件分析
 - [ razor ](https://github.com/cobub/razor) 国内开源的移动分析解决方案。完整的开源项目。
 - [ Adjust ](https://github.com/adjust)
 - [ GrowingIO ](https://github.com/growingio)是基于用户行为的新一代数据分析产品，提供全球领先的数据采集和分析技术。
