@@ -119,7 +119,7 @@
 - [ Facebook `脸书` ](https://github.com/facebook)
 - [ Facebook Research ](https://github.com/facebookresearch)
 - [ Libra ](https://github.com/libra)
-- [ Facebook Samples ](https://github.com/fbsamples)
+- [ Facebook Samples ](https://github.com/fbsamples)每年，作为F8会议的一部分，Facebook都会构建iOS和Android应用程序。
 - [ React Native Community ](https://github.com/react-native-community)
 - [ React Native for Web Community ](https://github.com/react-native-web-community)
 - [ Facebook Archive ](https://github.com/facebookarchive)
