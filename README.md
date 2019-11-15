@@ -100,7 +100,7 @@
 - [ RSUITE ](https://github.com/rsuite)
 
 >
-- [ 0voice ](https://github.com/0voice) *架构、面试题
+- [ 0voice ](https://github.com/0voice) *架构、面试题*
 
 <br />
 
@@ -108,7 +108,7 @@
 >  USA - 美国
 
 > 是一个由谷歌、IBM 与 Lyft 共同开发的开源项目
-- [ Istio ](https://github.com/istio) *提供一种统一化的微服务连接、安全保障、管理与监控方式。Istio 项目能够为微服务架构提供流量管理机制，同时亦为其它增值功能（包括安全性、监控、路由、连接管理与策略等）创造了基础。这款软件利用久经考验的 Lyft Envoy 代理进行构建，可在无需对应用程序代码作出任何发动的前提下实现可视性与控制能力
+- [ Istio ](https://github.com/istio) *提供一种统一化的微服务连接、安全保障、管理与监控方式。Istio 项目能够为微服务架构提供流量管理机制，同时亦为其它增值功能（包括安全性、监控、路由、连接管理与策略等）创造了基础。这款软件利用久经考验的 Lyft Envoy 代理进行构建，可在无需对应用程序代码作出任何发动的前提下实现可视性与控制能力*
 
 >
 - [ Apple `苹果` ](https://github.com/apple)
@@ -126,19 +126,19 @@
 - [ Go /golang ](https://github.com/golang)
 - [ tensorflow ](https://github.com/tensorflow) *是谷歌的第二代机器学习系统，按照谷歌所说，在某些基准测试中，TensorFlow的表现比第一代的DistBelief快了2倍。TensorFlow 内建深度学习的扩展支持，任何能够用计算流图形来表达的计算，都可以使用TensorFlow。任何基于梯度的机器学习算法都能够受益于TensorFlow的自动分 化（auto-differentiation）。通过灵活的Python接口，要在TensorFlow中表达想法也会很容易。*
 - [ Angular ](https://github.com/angular) *一款十分流行且好用的 Web 前端框架。*
-- [ Kubernetes ](https://github.com/kubernetes) *容器集群管理系统。基于 Docker 构建一个容器的调度服务。该系统可以自动在一个容器集群中选择一个工作容器供使用。
-- [ protobuf ](https://github.com/protocolbuffers) *一种数据描述语言，类似于XML能够将结构化数据序列化，可用于数据存储、通信协议等方面。现阶段支持C++、JAVA、Python等三种编程语言。
-- [ grpc ](https://github.com/grpc/grpc) *是一个高性能、开源和通用的 RPC 框架，面向移动和 HTTP/2 设计。目前提供 C、Java 和 Go 语言版本，分别是：grpc, grpc-java, grpc-go. 其中 C 版本支持 C, C++, Node.js, Python, Ruby, Objective-C, PHP 和 C# 支持.GRPC 基于 HTTP/2 标准设计，带来诸如双向流、流控、头部压缩、单 TCP 连接上的多复用请求等特。这些特性使得其在移动设备上表现更好，更省电和节省空间占用。
-- [ bazel ](https://github.com/bazelbuild) *是 Google 的一款可再生的代码构建工具。它主要是用于构建 Google 的软件,处理出现在谷歌的开发环境的构建问题,比如说:大规模数据构建问题,共享代码库问题,从源代码构建的软件的相关问题。支持多种语言并且跨平台，还支持自动化测试和部署、具有再现性（Reproducibility）和规模化等特征。
-- [ cartographer ](https://github.com/googlecartographer) *一个ROS系统支持的2D和3D SLAM（simultaneous localization and mapping）库。SLAM 算法结合来自多个传感器（比如，LIDAR、IMU 和 摄像头）的数据，同步计算传感器的位置并绘制传感器周围的环境。在产业界和学术界常见的传感器配置上，Cartographer 能实时建立全局一致的地图。
-- [ xi-editor ](https://github.com/xi-editor) *一款用 Rust 语言编写的文本编辑器，最初是为 Mac OS X 构建的，使用 Cocoa 作为用户界面，已有计划适配其它平台。所有编辑操作都可以在 16ms 之内提交并处理。文本绘制使用最好的技术（如 Mac 上的 Core Text，Windows 上的 DirectWrite 等），并完全支持 Unicode。
+- [ Kubernetes ](https://github.com/kubernetes) *容器集群管理系统。基于 Docker 构建一个容器的调度服务。该系统可以自动在一个容器集群中选择一个工作容器供使用。*
+- [ protobuf ](https://github.com/protocolbuffers) *一种数据描述语言，类似于XML能够将结构化数据序列化，可用于数据存储、通信协议等方面。现阶段支持C++、JAVA、Python等三种编程语言。*
+- [ grpc ](https://github.com/grpc/grpc) *是一个高性能、开源和通用的 RPC 框架，面向移动和 HTTP/2 设计。目前提供 C、Java 和 Go 语言版本，分别是：grpc, grpc-java, grpc-go. 其中 C 版本支持 C, C++, Node.js, Python, Ruby, Objective-C, PHP 和 C# 支持.GRPC 基于 HTTP/2 标准设计，带来诸如双向流、流控、头部压缩、单 TCP 连接上的多复用请求等特。这些特性使得其在移动设备上表现更好，更省电和节省空间占用。*
+- [ bazel ](https://github.com/bazelbuild) *是 Google 的一款可再生的代码构建工具。它主要是用于构建 Google 的软件,处理出现在谷歌的开发环境的构建问题,比如说:大规模数据构建问题,共享代码库问题,从源代码构建的软件的相关问题。支持多种语言并且跨平台，还支持自动化测试和部署、具有再现性（Reproducibility）和规模化等特征。*
+- [ cartographer ](https://github.com/googlecartographer) *一个ROS系统支持的2D和3D SLAM（simultaneous localization and mapping）库。SLAM 算法结合来自多个传感器（比如，LIDAR、IMU 和 摄像头）的数据，同步计算传感器的位置并绘制传感器周围的环境。在产业界和学术界常见的传感器配置上，Cartographer 能实时建立全局一致的地图。*
+- [ xi-editor ](https://github.com/xi-editor) *一款用 Rust 语言编写的文本编辑器，最初是为 Mac OS X 构建的，使用 Cocoa 作为用户界面，已有计划适配其它平台。所有编辑操作都可以在 16ms 之内提交并处理。文本绘制使用最好的技术（如 Mac 上的 Core Text，Windows 上的 DirectWrite 等），并完全支持 Unicode。*
 
 
 >
 - [ Facebook `脸书` ](https://github.com/facebook)
 - [ Facebook Research ](https://github.com/facebookresearch)
 - [ Libra ](https://github.com/libra)
-- [ Facebook Samples ](https://github.com/fbsamples) *每年，作为F8会议的一部分，Facebook都会构建iOS和Android应用程序。
+- [ Facebook Samples ](https://github.com/fbsamples) *每年，作为F8会议的一部分，Facebook都会构建iOS和Android应用程序。*
 - [ React Native Community ](https://github.com/react-native-community)
 - [ React Native for Web Community ](https://github.com/react-native-web-community)
 - [ Facebook Archive ](https://github.com/facebookarchive)
@@ -153,7 +153,7 @@
 - [ Microsoft DX Camps ](https://github.com/dxcamps)
 - [ Microsoft Learning ](https://github.com/MicrosoftLearning)
 - [ Microsoft Archive ](https://github.com/microsoftarchive)
-- [ Office Developer ](https://github.com/OfficeDev) Developer tools, samples, and other resources for building solutions on the Office 365 platform.
+- [ Office Developer ](https://github.com/OfficeDev) *Developer tools, samples, and other resources for building solutions on the Office 365 platform.*
 - [.NET](https://github.com/dotnet)
 - [ Windows Community Toolkit ](https://github.com/windows-toolkit)
 - [ NuGet ](https://github.com/NuGet)
@@ -178,8 +178,8 @@
 
 >
 - [ Apache `阿帕奇` ](https://github.com/apache) 
-- [ minio ](https://github.com/minio) *High Performance Object Storage
-- [ mesos ](https://github.com/mesos) *Unofficial Apache Mesos Community Projects:是Apache下的开源分布式资源管理框架，它被称为是分布式系统的内核。
+- [ minio ](https://github.com/minio) *High Performance Object Storage*
+- [ mesos ](https://github.com/mesos) *Unofficial Apache Mesos Community Projects:是Apache下的开源分布式资源管理框架，它被称为是分布式系统的内核。*
 - [ Alluxio ](https://github.com/Alluxio)
 - [ tachyons-css ](https://github.com/tachyons-css)
 
@@ -247,18 +247,18 @@
 - [ Bloomberg `彭博-财经资讯服务` ](https://github.com/Bloomberg)
 - [ Serverless `-架构服务` ](https://github.com/serverless)
 - [ NG-ZORRO `角度开发者` ](https://github.com/NG-ZORRO)
-- [ checkly ](https://github.com/checkly) Monitor the performance and correctness of your API endpoints & vital site transactions from a single, simple dashboard.
+- [ checkly ](https://github.com/checkly) *Monitor the performance and correctness of your API endpoints & vital site transactions from a single, simple dashboard.*
 
 >
 - [ Netflix `奈飞公司-在线影片租赁提供商` ](https://github.com/netflix)
-- 开源[ReactiveX](https://github.com/ReactiveX) RxJava、RxSwift、RxGo...
+- 开源[ReactiveX](https://github.com/ReactiveX) *RxJava、RxSwift、RxGo...*
 
 <br />
 
 ---
 > Russia - 俄罗斯
-- [ Kriasoft ](https://github.com/kriasoft) *Here on GitHub we share our experience with web infrastructure, scalable web application design, and DevOps.
-- [ Prisma ](https://github.com/prisma) *利用神经网络和人工智能技术，为普通照片加入艺术效果的照片编辑软件
+- [ Kriasoft ](https://github.com/kriasoft) *Here on GitHub we share our experience with web infrastructure, scalable web application design, and DevOps.*
+- [ Prisma ](https://github.com/prisma) *利用神经网络和人工智能技术，为普通照片加入艺术效果的照片编辑软件*
 
 <br />
 
@@ -270,7 +270,7 @@
 
 ---
 > Sweden - 瑞典
-- [ Grafana ](https://github.com/grafana) *一个漂亮的工具，用于监控和测量石墨、InfluxDB和Prometheus、ElasticSearch的分析和仪表盘。
+- [ Grafana ](https://github.com/grafana) *一个漂亮的工具，用于监控和测量石墨、InfluxDB和Prometheus、ElasticSearch的分析和仪表盘。*
 
 <br />
 
@@ -320,7 +320,7 @@
 
 ---
 > Spanish - 西班牙
-- [ APSL ](https://github.com/APSL) *Web, mobile apps and DevOps mostly in Python, Django, JavaScript and Go.
+- [ APSL ](https://github.com/APSL) *Web, mobile apps and DevOps mostly in Python, Django, JavaScript and Go.*
 
 <br />
 
@@ -335,25 +335,25 @@
 - [ Tinify ](https://github.com/tinify)
 - [ Netguru ](https://github.com/netguru)
 - [ Polidea ](https://github.com/Polidea)
-- [ V ](https://github.com/vlang) *The V Programming Language:Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s.
+- [ V ](https://github.com/vlang) *The V Programming Language:Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s.*
 
 <br />
 
 ---
 > Denmark - 丹麦
-- [ Unity Technologies ](https://github.com/Unity-Technologies) *unity3d
+- [ Unity Technologies ](https://github.com/Unity-Technologies) *unity3d*
 
 <br />
 
 ---
 > Singapore - 新加坡
-- [ Grab ](https://github.com/grab) *Driving South-east Asia forward!
+- [ Grab ](https://github.com/grab) *Driving South-east Asia forward!*
 
 <br />
 
 ---
 > Brazilian - 巴西
-- [ Reakit ](https://github.com/reakit) *Toolkit for building really interactive UIs with React
+- [ Reakit ](https://github.com/reakit) *Toolkit for building really interactive UIs with React*
 
 <br />
 
@@ -372,15 +372,15 @@
 - [ Automattic ](https://github.com/Automattic)
 - [ EthVM ](https://github.com/EthVM)
 - [ Expo ](https://github.com/expo)
-- [ Marko ](https://github.com/marko-js) *UI Components + streaming, async, high performance, HTML templating for Node.js and the browser.  `PK Vue`
+- [ Marko ](https://github.com/marko-js) *UI Components + streaming, async, high performance, HTML templating for Node.js and the browser.  `PK Vue`*
 - [ Emacs.tw ](https://github.com/emacs-tw)
-- [ PaddlePaddle ](https://github.com/PaddlePaddle) *C++ / Python / Vue / Go / JS
+- [ PaddlePaddle ](https://github.com/PaddlePaddle) *C++ / Python / Vue / Go / JS*
 - [ typeorm ](https://github.com/typeorm)
 - [ undertow-io ](https://github.com/undertow-io) 
 - [ TradingView ](https://github.com/tradingview)
 - [ Jasonette ](https://github.com/Jasonette)
 - [ MobX ](https://github.com/mobxjs)
-- [ Metafizzy ](https://github.com/metafizzy) *JS插件
+- [ Metafizzy ](https://github.com/metafizzy) *JS插件*
 - [ selfteaching ](https://github.com/selfteaching)
 - [ osquery ](https://github.com/osquery)
 
@@ -398,29 +398,29 @@
 ---
 >
 - [ OnsenUI ](https://github.com/OnsenUI)
-- [ Framework7 ](https://github.com/framework7io) *用于构建iOS和Android应用程序的`全功能HTML框架`
+- [ Framework7 ](https://github.com/framework7io) *用于构建iOS和Android应用程序的`全功能HTML框架`*
 
 ---
 > 
-- [ CreateJS ](https://github.com/CreateJS) *是一款为HTML5游戏开发的引擎。
+- [ CreateJS ](https://github.com/CreateJS) *是一款为HTML5游戏开发的引擎。*
 
 ---
 >
 - [ React Native Community ](https://github.com/react-native-community)
-- [ Serlina ](https://github.com/serlina-community) *A progressive React serverside-rendering framework
+- [ Serlina ](https://github.com/serlina-community) *A progressive React serverside-rendering framework*
 - [ Material-UI ](https://github.com/mui-org)
-- [ react-boilerplate ](https://github.com/react-boilerplate) *🔥  A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+- [ react-boilerplate ](https://github.com/react-boilerplate) *🔥  A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.*
 - [ dvajs ](https://github.com/dvajs)  
 - [ reactide ](https://github.com/reactide)
 
 ---
 >
-- [ Material Components ](https://github.com/material-components) *Build beautiful, usable products with Material Components for Android, `Flutter`, iOS, and the web.
+- [ Material Components ](https://github.com/material-components) *Build beautiful, usable products with Material Components for Android, `Flutter`, iOS, and the web.*
 
 ---
 > js应用数据流框架(只是组织哦)
 - [ Redux ](https://github.com/reduxjs)
-- [ Redux-Saga ](https://github.com/redux-saga) *Easing side effects management in Redux applications.
+- [ Redux-Saga ](https://github.com/redux-saga) *Easing side effects management in Redux applications.*
 - [ redux-offline ](https://github.com/redux-offline)
 - [ Rematch ](https://github.com/rematch)
 
@@ -464,20 +464,20 @@
 - [ Hammerspoon ](https://github.com/Hammerspoon)
 - [ Rambox ](https://github.com/ramboxapp)
 - [ CosmicMind ](https://github.com/CosmicMind)
-- [ IINA ](https://github.com/iina) *The modern media player for macOS
+- [ IINA ](https://github.com/iina) *The modern media player for macOS*
 
 ---
 > 
 - [ Realm ](https://github.com/realm)
 - [ Sequel Pro ](https://github.com/sequelpro)
 - [ AudioKit ](https://github.com/AudioKit)
-- [ Sequelize ](https://github.com/sequelize) *An easy-to-use multi SQL dialect ORM for Node.js
-- [ typeorm ](https://github.com/typeorm) *用于typescript和javascript的ORM（ES7、ES6、ES5）。支持mysql、postgresql、mariadb、sqlite、ms-sql-server、oracle、websql数据库。适用于Nodejs、浏览器、离子、Cordova和电子平台。
-- [ DBeaver ](https://github.com/dbeaver) *是免费和开源（GPL）为开发人员和数据库管理员通用数据库工具。
-- [ MariaDB ](https://github.com/MariaDB) *数据库管理系统是MySQL的一个分支，主要由开源社区在维护
-- [ Metabase ](https://github.com/metabase) *是一个简单、开源的方式，通过给公司成员提问，从得到的数据中进行分析、学习。
-- [ PostgreSQL ](https://github.com/postgres) *是一个功能强大的开放源码对象关系数据库系统，它使用和扩展SQL语言，并结合许多安全存储和扩展最复杂数据工作负载的功能。
-- [ Flyway ](https://github.com/flyway) *数据库迁移变得简单。
+- [ Sequelize ](https://github.com/sequelize) *An easy-to-use multi SQL dialect ORM for Node.js*
+- [ typeorm ](https://github.com/typeorm) *用于typescript和javascript的ORM（ES7、ES6、ES5）。支持mysql、postgresql、mariadb、sqlite、ms-sql-server、oracle、websql数据库。适用于Nodejs、浏览器、离子、Cordova和电子平台。*
+- [ DBeaver ](https://github.com/dbeaver) *是免费和开源（GPL）为开发人员和数据库管理员通用数据库工具。*
+- [ MariaDB ](https://github.com/MariaDB) *数据库管理系统是MySQL的一个分支，主要由开源社区在维护*
+- [ Metabase ](https://github.com/metabase) *是一个简单、开源的方式，通过给公司成员提问，从得到的数据中进行分析、学习。*
+- [ PostgreSQL ](https://github.com/postgres) *是一个功能强大的开放源码对象关系数据库系统，它使用和扩展SQL语言，并结合许多安全存储和扩展最复杂数据工作负载的功能。*
+- [ Flyway ](https://github.com/flyway) *数据库迁移变得简单。*
 - [ HeidiSQL ](https://github.com/HeidiSQL)
 - [ LINQ TO DB ](https://github.com/linq2db)
 - [ mysql-net ](https://github.com/mysql-net)
@@ -490,13 +490,13 @@
 
 ---
 > app数据 统计、分析(只是组织哦)
-- [ Snowplow Analytics ](https://github.com/snowplow) *在AWS和GCP上运行的云原生Web，移动和事件分析
-- [ razor ](https://github.com/cobub/razor) *国内开源的移动分析解决方案。完整的开源项目。
+- [ Snowplow Analytics ](https://github.com/snowplow) *在AWS和GCP上运行的云原生Web，移动和事件分析*
+- [ razor ](https://github.com/cobub/razor) *国内开源的移动分析解决方案。完整的开源项目。*
 - [ Adjust ](https://github.com/adjust)
-- [ GrowingIO ](https://github.com/growingio) *是基于用户行为的新一代数据分析产品，提供全球领先的数据采集和分析技术。
-- [ AppsFlye ](https://github.com/AppsFlyerSDK) *专业的移动归因与营销分析平台
-- [ Analytics ](https://github.com/angulartics) *AngularJS应用程序分析。
-- [ Grafana ](https://github.com/grafana) *一个漂亮的工具，用于监控和测量石墨、InfluxDB和Prometheus、ElasticSearch的分析和仪表盘。
+- [ GrowingIO ](https://github.com/growingio) *是基于用户行为的新一代数据分析产品，提供全球领先的数据采集和分析技术。*
+- [ AppsFlye ](https://github.com/AppsFlyerSDK) *专业的移动归因与营销分析平台*
+- [ Analytics ](https://github.com/angulartics) *AngularJS应用程序分析。*
+- [ Grafana ](https://github.com/grafana) *一个漂亮的工具，用于监控和测量石墨、InfluxDB和Prometheus、ElasticSearch的分析和仪表盘。*
 - [ react-ga ](https://github.com/react-ga)
 - [ Segment ](https://github.com/segmentio)
 - [ AlignAlytics ](https://github.com/PMSI-AlignAlytics)
