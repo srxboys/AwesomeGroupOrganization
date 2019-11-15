@@ -106,15 +106,33 @@
 
 ---
 >  USA - 美国
+
+> 是一个由谷歌、IBM 与 Lyft 共同开发的开源项目
+- [ Istio ](https://github.com/istio)提供一种统一化的微服务连接、安全保障、管理与监控方式。Istio 项目能够为微服务架构提供流量管理机制，同时亦为其它增值功能（包括安全性、监控、路由、连接管理与策略等）创造了基础。这款软件利用久经考验的 Lyft Envoy 代理进行构建，可在无需对应用程序代码作出任何发动的前提下实现可视性与控制能力
+
+>
 - [ Apple `苹果` ](https://github.com/apple)
 
 >
 - [ Google `谷歌` ](https://github.com/google)
+- [ Google APIs ](https://github.com/googleapis)
+- [ Google AI Research ](https://github.com/google-research)
+- [ Google Maps ](https://github.com/googlemaps)
 - [ Google Samples `谷歌，样品` ](https://github.com/googlesamples)
 - [ GoogleChrome `谷歌，浏览器` ](https://github.com/GoogleChrome)
 - [ Google Internationalization `谷歌，开源字体 ` ](https://github.com/googlei18n)
-- [ grpc  `谷歌，RPC框架` ](https://github.com/grpc)
-- [ Kubernetes `谷歌，容器编排引擎` ](https://github.com/kubernetes) 自动化部署、大规模可伸缩、应用容器化管理
+- [ Google Creative Lab ](https://github.com/googlecreativelab)
+- [ Kubernetes `谷歌，容器编排引擎` ](https://github.com/kubernetes) *自动化部署、大规模可伸缩、应用容器化管理。*
+- [ Go /golang ](https://github.com/golang)
+- [ tensorflow ](https://github.com/tensorflow) *是谷歌的第二代机器学习系统，按照谷歌所说，在某些基准测试中，TensorFlow的表现比第一代的DistBelief快了2倍。TensorFlow 内建深度学习的扩展支持，任何能够用计算流图形来表达的计算，都可以使用TensorFlow。任何基于梯度的机器学习算法都能够受益于TensorFlow的自动分 化（auto-differentiation）。通过灵活的Python接口，要在TensorFlow中表达想法也会很容易。*
+- [ Angular ](https://github.com/angular) *一款十分流行且好用的 Web 前端框架。*
+- [ Kubernetes ](https://github.com/kubernetes) *容器集群管理系统。基于 Docker 构建一个容器的调度服务。该系统可以自动在一个容器集群中选择一个工作容器供使用。
+- [ protobuf ](https://github.com/protocolbuffers) *一种数据描述语言，类似于XML能够将结构化数据序列化，可用于数据存储、通信协议等方面。现阶段支持C++、JAVA、Python等三种编程语言。
+- [ grpc ](https://github.com/grpc/grpc) *是一个高性能、开源和通用的 RPC 框架，面向移动和 HTTP/2 设计。目前提供 C、Java 和 Go 语言版本，分别是：grpc, grpc-java, grpc-go. 其中 C 版本支持 C, C++, Node.js, Python, Ruby, Objective-C, PHP 和 C# 支持.GRPC 基于 HTTP/2 标准设计，带来诸如双向流、流控、头部压缩、单 TCP 连接上的多复用请求等特。这些特性使得其在移动设备上表现更好，更省电和节省空间占用。
+- [ bazel ](https://github.com/bazelbuild) *是 Google 的一款可再生的代码构建工具。它主要是用于构建 Google 的软件,处理出现在谷歌的开发环境的构建问题,比如说:大规模数据构建问题,共享代码库问题,从源代码构建的软件的相关问题。支持多种语言并且跨平台，还支持自动化测试和部署、具有再现性（Reproducibility）和规模化等特征。
+- [ cartographer ](https://github.com/googlecartographer) *一个ROS系统支持的2D和3D SLAM（simultaneous localization and mapping）库。SLAM 算法结合来自多个传感器（比如，LIDAR、IMU 和 摄像头）的数据，同步计算传感器的位置并绘制传感器周围的环境。在产业界和学术界常见的传感器配置上，Cartographer 能实时建立全局一致的地图。
+- [ xi-editor ](https://github.com/xi-editor) *一款用 Rust 语言编写的文本编辑器，最初是为 Mac OS X 构建的，使用 Cocoa 作为用户界面，已有计划适配其它平台。所有编辑操作都可以在 16ms 之内提交并处理。文本绘制使用最好的技术（如 Mac 上的 Core Text，Windows 上的 DirectWrite 等），并完全支持 Unicode。
+
 
 >
 - [ Facebook `脸书` ](https://github.com/facebook)
@@ -146,19 +164,43 @@
 - [ NVIDIA Research Projects ](https://github.com/NVlabs)
 
 >
-- [ Amazon `亚马逊公司` ](https://github.com/aws)
+- [ Cisco Talos `思科` ](https://github.com/Cisco-Talos)
+- [ Cisco Systems ](https://github.com/cisco)
+
+>
+- [ Amazon `亚马逊公司` ](https://github.com/amzn)
+- [ Amazon Web Services ](https://github.com/aws)
+- [ Amazon Web Services - Labs ](https://github.com/awslabs)
+- [ Amazon Web Services - Documentation ](https://github.com/awsdocs)
+- [ Amazon Archives ](https://github.com/amazon-archives)
+- [ AWS Samples ](https://github.com/aws-samples)
+- [ AWS Quick Start ](https://github.com/aws-quickstart)
+
+>
+- [ Apache `阿帕奇` ](https://github.com/apache) 
+- [ minio ](https://github.com/minio) High Performance Object Storage
+- [ mesos ](https://github.com/mesos) Unofficial Apache Mesos Community Projects:是Apache下的开源分布式资源管理框架，它被称为是分布式系统的内核。
+- [ Alluxio ](https://github.com/Alluxio)
+- [ tachyons-css ](https://github.com/tachyons-css)
+
+>
 - [ Twitter `推特` ](https://github.com/twitter)
+- [ Twitter Archive ](https://github.com/twitter-archive)
+
+>
+- [ Intel Corporation `因特尔` ](https://github.com/intel)
+- [ Intel-Media-SDK ](https://github.com/Intel-Media-SDK)
+- [ IntelRealSense ](https://github.com/IntelRealSense)
+
+>
 - [ Square `Square移动支付` ](https://github.com/square)
 - [ International Business Machines `IBM - 国际商业机器` ](https://github.com/IBM)
-- [ Intel Corporation `因特尔` ](https://github.com/intel)
 - [ Yahoo Inc `雅虎` ](https://github.com/yahoo)
-- [ Apache `阿帕奇` ](https://github.com/apache) 
 - [ Adobe `奥多比` ](https://github.com/adobe)
 - [ Oriacle `甲骨文` ](https://github.com/oracle)
 - [ Dell Inc `戴尔` ](https://github.com/dell)
 - [ VMware `威睿` ](https://github.com/vmware)
 - [ Comcast Corporation `康卡斯特` ](https://github.com/Comcast)
-- [ Cisco Talos `思科` ](https://github.com/Cisco-Talos)
 - [ Airbnb `爱彼迎` ](https://github.com/airbnb)
 - [ Uber `优步` ](https://github.com/uber)
 - [ Broadcom Inc `博通公司` ](https://github.com/Broadcom)
@@ -242,6 +284,8 @@
 > Czech - 捷克
 - [ JetBrains ](https://github.com/JetBrains)
 - [ Kotlin `JetBrains，开发语言` ](https://github.com/Kotlin)
+- [ Intellij `JetBrains` ](https://github.com/IntellijSys)
+- [ IntelliJ Rust ](https://github.com/intellij-rust)
 
 >
 - [ Lingui ](https://github.com/lingui)
