@@ -30,7 +30,7 @@
 - [ Tencent `腾讯` ](https://github.com/tencent)
 - [ AlloyTeam `腾讯，Web前端团队` ](https://github.com/AlloyTeam)
 - [ WeUI `腾讯，微信ui` ](https://github.com/weui)
-- [ wechat-miniprogram ](https://github.com/wechat-miniprogram) *小程序
+- [ wechat-miniprogram ](https://github.com/wechat-miniprogram) *小程序*
 - [ tencentyun `腾讯云`](https://github.com/tencentyun)
 
 >
@@ -148,7 +148,7 @@
 - [ Microsoft Docs ](https://github.com/MicrosoftDocs)
 - [ Microsoft Edge ](https://github.com/MicrosoftEdge)
 - [ Microsoft Graph ](https://github.com/microsoftgraph)
-- [ Microsoft Azure ](https://github.com/Azure) 统计
+- [ Microsoft Azure ](https://github.com/Azure) *统计*
 - [ Azure Active Directory ](https://github.com/AzureAD)
 - [ Microsoft DX Camps ](https://github.com/dxcamps)
 - [ Microsoft Learning ](https://github.com/MicrosoftLearning)
@@ -219,12 +219,12 @@
 - [ ESnet ](https://github.com/esnet)
 - [ MindsDB ](https://github.com/mindsdb)
 - [ Stream ](https://github.com/GetStream)
-- [ 2D, Inc ](https://github.com/2d-inc) Flutter / Dart/ React / Swift
+- [ 2D, Inc ](https://github.com/2d-inc) *Flutter / Dart/ React / Swift*
 - [ WeTransfer ](https://github.com/WeTransfer)
-- [ Unity Technologies ](https://github.com/UnityTech)  unity3d
+- [ Unity Technologies ](https://github.com/UnityTech) *unity3d*
 - [ onivim ](https://github.com/onivim)
 - [ Semantic Org ](https://github.com/Semantic-Org)
-- [ Rebass ](https://github.com/rebassjs) React UI components
+- [ Rebass ](https://github.com/rebassjs) *React UI components*
 - [ ShakaCode ](https://github.com/shakacode) 
 - [ appbase.io ](https://github.com/appbaseio)
 - [ Stripe ](https://github.com/stripe)
