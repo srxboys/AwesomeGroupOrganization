@@ -131,7 +131,8 @@
 - [ grpc ](https://github.com/grpc/grpc) *是一个高性能、开源和通用的 RPC 框架，面向移动和 HTTP/2 设计。目前提供 C、Java 和 Go 语言版本，分别是：grpc, grpc-java, grpc-go. 其中 C 版本支持 C, C++, Node.js, Python, Ruby, Objective-C, PHP 和 C# 支持.GRPC 基于 HTTP/2 标准设计，带来诸如双向流、流控、头部压缩、单 TCP 连接上的多复用请求等特。这些特性使得其在移动设备上表现更好，更省电和节省空间占用。*
 - [ bazel ](https://github.com/bazelbuild) *是 Google 的一款可再生的代码构建工具。它主要是用于构建 Google 的软件,处理出现在谷歌的开发环境的构建问题,比如说:大规模数据构建问题,共享代码库问题,从源代码构建的软件的相关问题。支持多种语言并且跨平台，还支持自动化测试和部署、具有再现性（Reproducibility）和规模化等特征。*
 - [ cartographer ](https://github.com/googlecartographer) *一个ROS系统支持的2D和3D SLAM（simultaneous localization and mapping）库。SLAM 算法结合来自多个传感器（比如，LIDAR、IMU 和 摄像头）的数据，同步计算传感器的位置并绘制传感器周围的环境。在产业界和学术界常见的传感器配置上，Cartographer 能实时建立全局一致的地图。*
-- [ xi-editor ](https://github.com/xi-editor) *一款用 Rust 语言编写的文本编辑器，最初是为 Mac OS X 构建的，使用 Cocoa 作为用户界面，已有计划适配其它平台。所有编辑操作都可以在 16ms 之内提交并处理。文本绘制使用最好的技术（如 Mac 上的 Core Text，Windows 上的 DirectWrite 等），并完全支持 Unicode。*
+- [ xi-editor ](https://github.com/xi-editor) *一款用 Rust 语言编写的文本编辑器，最初是为 Mac OS X 构建的，使用 Cocoa 作为用户界面，已有计划适配其它平台。所有编辑操作都可以在 16ms 之内提交并处理。文本绘制使用最好的技术（如 Mac 上的 Core Text，Windows 上的 DirectWrite 等），并完全支持 Unicode
+- [ UberGallery ](https://github.com/UberGallery)
 
 
 >
@@ -141,6 +142,7 @@
 - [ Facebook Samples ](https://github.com/fbsamples) *每年，作为F8会议的一部分，Facebook都会构建iOS和Android应用程序。*
 - [ React Native Community ](https://github.com/react-native-community)
 - [ React Native for Web Community ](https://github.com/react-native-web-community)
+- [ Facebook Incubator ](https://github.com/facebookincubator)
 - [ Facebook Archive ](https://github.com/facebookarchive)
 
 >
@@ -193,16 +195,51 @@
 - [ IntelRealSense ](https://github.com/IntelRealSense)
 
 >
+- [ Adobe `奥多比` ](https://github.com/adobe)
+- [ Adobe I/O ](https://github.com/adobeio)
+- [ Adobe Docs ](https://github.com/AdobeDocs)
+- [ Adobe XD ](https://github.com/AdobeXD)
+- [ Adobe Sign ](https://github.com/adobe-sign)
+- [ Adobe CEP ](https://github.com/Adobe-CEP)
+- [ Adobe Web Platform ](https://github.com/adobe-webplatform)
+- [ Adobe-Consulting-Services ](https://github.com/Adobe-Consulting-Services)
+- [ Adobe Experience Cloud ](https://github.com/Adobe-Marketing-Cloud) *Adobe工程和整个开发社区提供的sdk、示例和工具。*
+- [ Adobe Fonts ](https://github.com/adobe-fonts) *不知道? 是否是 企业维护的*
+- [ Adobe Photoshop ](https://github.com/adobe-photoshop) *不知道? 是否是 企业维护的*
+
+>
+- [ Yahoo Inc `雅虎` ](https://github.com/yahoo)
+- [ ahoo Archive ](https://github.com/YahooArchive)
+
+>
+- [ Dell Inc `戴尔` ](https://github.com/dell)
+- [ Dell-asm ](https://github.com/dell-asm)
+- [ Dell EMC Networking ](https://github.com/Dell-Networking)
+- [ Dell GDC ](https://github.com/DellGDC)
+
+>
+- [ Uber `优步` ](https://github.com/uber)
+- [ Uber Common ](https://github.com/uber-common) *Uber的开源实用程序库*
+- [ Uber Golang ](https://github.com/uber-go) *Uber的Go开发开源软件*
+- [ Uber Web ](https://github.com/uber-web) *Uber的web开发开源软件*
+- [ Uber Research ](https://github.com/uber-research) *Uber's open source software for AI research*
+- [ Uber Archive ](https://github.com/uber-archive)
+- [ Horovod ](https://github.com/horovod) *Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.*
+- [ Jaeger Tracing ](https://github.com/jaegertracing) *Jaeger, inspired by Dapper and OpenZipkin, is a distributed tracing system.*
+- [ Kepler.gl ](https://github.com/keplergl) *Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.*
+- [ Fusion.js ](https://github.com/fusionjs) *Jaeger, inspired by Dapper and OpenZipkin, is a distributed tracing system.*
+- [ Pyro ](https://github.com/pyro-ppl) *Jaeger, inspired by Dapper and OpenZipkin, is a distributed tracing system.*
+- [ M3 ](https://github.com/m3db) *Jaeger, inspired by Dapper and OpenZipkin, is a distributed tracing system.*
+- [ yarpc ](https://github.com/yarpc) *A message passing platform for Go.*
+- [ thriftrw ](https://github.com/thriftrw) *General purpose, serialization-only, Thrift encoding libraries.*
+
+>
 - [ Square `Square移动支付` ](https://github.com/square)
 - [ International Business Machines `IBM - 国际商业机器` ](https://github.com/IBM)
-- [ Yahoo Inc `雅虎` ](https://github.com/yahoo)
-- [ Adobe `奥多比` ](https://github.com/adobe)
-- [ Oriacle `甲骨文` ](https://github.com/oracle)
-- [ Dell Inc `戴尔` ](https://github.com/dell)
+- [ Oracle `甲骨文` ](https://github.com/oracle)
 - [ VMware `威睿` ](https://github.com/vmware)
 - [ Comcast Corporation `康卡斯特` ](https://github.com/Comcast)
 - [ Airbnb `爱彼迎` ](https://github.com/airbnb)
-- [ Uber `优步` ](https://github.com/uber)
 - [ Broadcom Inc `博通公司` ](https://github.com/Broadcom)
 - [ Intuit `财捷公司` ](https://github.com/intuit)
 - [ Ebay `电子湾、亿贝、易贝` ](https://github.com/ebay)
