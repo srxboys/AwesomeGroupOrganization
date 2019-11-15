@@ -127,8 +127,19 @@
 
 >
 - [ Microsoft `微软` ](https://github.com/microsoft)
-- [ Office Developer ](https://github.com/OfficeDev) Developer tools, samples, and other resources for building solutions on the Office 365 platform.
+- [ Microsoft Docs ](https://github.com/MicrosoftDocs)
+- [ Microsoft Edge ](https://github.com/MicrosoftEdge)
+- [ Microsoft Graph ](https://github.com/microsoftgraph)
 - [ Microsoft Azure ](https://github.com/Azure) 统计
+- [ Azure Active Directory ](https://github.com/AzureAD)
+- [ Microsoft DX Camps ](https://github.com/dxcamps)
+- [ Microsoft Learning ](https://github.com/MicrosoftLearning)
+- [ Microsoft Archive ](https://github.com/microsoftarchive)
+- [ Office Developer ](https://github.com/OfficeDev) Developer tools, samples, and other resources for building solutions on the Office 365 platform.
+- [.NET](https://github.com/dotnet)
+- [ Windows Community Toolkit ](https://github.com/windows-toolkit)
+- [ NuGet ](https://github.com/NuGet)
+- [ ASP.NET ](https://github.com/aspnet)
 
 >
 - [ NVIDIA Corporation `英伟达` ](https://github.com/NVIDIA)
