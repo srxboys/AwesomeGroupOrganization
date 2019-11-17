@@ -27,6 +27,14 @@
 - [ Ant Design Team `阿里，UI 设计语言和 React 实现` ](https://github.com/ant-design)
 
 >
+- [ AMAP-Demo `高德` ](https://github.com/amap-demo)
+
+>
+- [ eleme `饿了吗` ](https://github.com/eleme)
+- [ ElemeFE `饿了么前端` ](https://github.com/ElemeFE)
+
+
+>
 - [ Tencent `腾讯` ](https://github.com/tencent)
 - [ AlloyTeam `腾讯，Web前端团队` ](https://github.com/AlloyTeam)
 - [ WeUI `腾讯，微信ui` ](https://github.com/weui)
@@ -50,9 +58,6 @@
 - [ Meituan-Dianping `美团，点评` ](https://github.com/Meituan-Dianping)
 - [ Dianping `美团，大众点评` ](https://github.com/dianping)
 
->
-- [ eleme `饿了吗` ](https://github.com/eleme)
-- [ ElemeFE `饿了么前端` ](https://github.com/ElemeFE)
 
 >
 - [ Qihoo 360 `360` ](https://github.com/Qihoo360)
@@ -67,9 +72,12 @@
 - [ JD EE  `京东前端` ](https://github.com/jdf2e)
 
 >
+- [ NetEase `网易` ](https://github.com/netease)
+- [ 网易 - 七鱼客服 ](https://github.com/qiyukf)
+
+>
 - [ Xiaomi `小米` ](https://github.com/xiaomi)
 - [ DiDi `滴滴` ](https://github.com/didi)
-- [ NetEase `网易` ](https://github.com/netease)
 - [ Ctrip `携程` ](https://github.com/ctripcorp)
 - [ Weibo `新浪，微博` ](https://github.com/weibocom)
 - [ VIPSHOP `唯品会`](https://github.com/vipshop)
