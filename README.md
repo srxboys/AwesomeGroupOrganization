@@ -40,6 +40,7 @@
 - [ WeUI `腾讯，微信ui` ](https://github.com/weui)
 - [ wechat-miniprogram ](https://github.com/wechat-miniprogram) *小程序*
 - [ tencentyun `腾讯云`](https://github.com/tencentyun)
+- [ Wechat-Group `微信开发者联盟`](https://github.com/Wechat-Group)
 
 >
 - [ BaiDu `百度` ](https://github.com/baidu)
